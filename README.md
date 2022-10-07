@@ -1,4 +1,4 @@
-Hiiiii [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Psycho ViiPeRz
+Hiiiii, Im Psycho ViiPeRz
 =================================================================================================================================
 
 Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM/RedM Scene
