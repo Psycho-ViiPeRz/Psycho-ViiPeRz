@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Psycho-ViiPeRz
+Hiiiii [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Psycho ViiPeRz
+=================================================================================================================================
 
-Self Taught Developer, QBCore Developer and Spreading a Positive Message About Mental Health
+Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM/RedM Scene
 
-🌱 Learning New Stuff Daily
-🥅 2023 Goals: Keep Doing What I Love Doing
+* 🌍  I'm based in Somewhere, Don't Know Where Half The Time
+* 🚀  I'm currently working on [ProjectSloth](http://github.com/Project-Sloth)
+* ⚡  I spend too much time on my PC 
+
+<a href="https://www.github.com/Psycho-ViiPeRz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Psycho-ViiPeRz?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
 
 # Skills
 
