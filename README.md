@@ -4,7 +4,7 @@ Hiiiii [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM/RedM Scene
 
 * 🌍  I'm based in Somewhere, Don't Know Where Half The Time
-* 🚀  I'm currently working on [ProjectSloth](http://github.com/Project-Sloth)
+* 🚀  I'm currently working on [Project-Psycho]
 * ⚡  I spend too much time on my PC 
 
 <a href="https://www.github.com/Psycho-ViiPeRz" target="_blank" rel="noreferrer"><img
