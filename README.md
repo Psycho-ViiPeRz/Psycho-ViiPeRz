@@ -7,6 +7,12 @@ Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World An
 * 🚀  I'm currently working on [Project-Psycho]
 * ⚡  I spend too much time on my PC 
 
+<h1 align="center"> 💻 Current Status: </h1>
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/887803221496717373"> 
+</p>
+
 <a href="https://www.github.com/Psycho-ViiPeRz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Psycho-ViiPeRz?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
 
