@@ -10,7 +10,7 @@ Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World An
 <h1 align="center"> 💻 Current Status: </h1>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/887803221496717373"> 
+ <a href=https://github.com/Psycho-ViiPeRz><img width="420" src=https://github-readme-stats.vercel.app/api?username=Psycho-ViiPeRz&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
 
 <a href="https://www.github.com/Psycho-ViiPeRz" target="_blank" rel="noreferrer"><img
