@@ -1,7 +1,7 @@
 Hiiiii, Im Psycho ViiPeRz
 =================================================================================================================================
 
-Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM/RedM Scene
+Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM Scene
 
 * 🌍  I'm based in Somewhere, Don't Know Where Half The Time
 * 🚀  I'm Currently Working On PixelParadiseRP / Psycho-Development
