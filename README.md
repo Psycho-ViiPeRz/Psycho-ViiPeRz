@@ -4,7 +4,7 @@ Hiiiii, Im Psycho ViiPeRz
 Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM Scene
 
 * 🌍  I'm based in Somewhere, Don't Know Where Half The Time
-* 🚀  I'm Currently Working On PixelParadiseRP / Psycho-Development
+* 🚀  I'm Currently Working On Psycho-Development
 * ⚡  I spend too much time on my PC 
 
 <h1 align="center"> 💻 Current Status: </h1>
