@@ -1,11 +1,18 @@
-Hiiiii, Im Psycho ViiPeRz
-=================================================================================================================================
+👨‍💻 LS Beyond RP / ViiPeRz Development | 📚 Lifelong Learner
 
-Just Some Self Taught Human That Has A Lot Of Intrest Within The Coding World And FiveM Scene
+👋 Hello, I'm Sean.
 
-* 🌍  I'm based in Somewhere, Don't Know Where Half The Time
-* 🚀  I'm Currently Working On Psycho-Development
-* ⚡  I spend too much time on my PC 
+🌟 Key Skills:
+- 💼 Frontend Development: HTML, CSS, LUA, C
+- 🛢️ Databases: MySQL
+
+🔨 Projects:
+- 🌐 LS BeyondRP: I'm Currently Working On A FiveM Server - Main Roles : Owner/Lead Developer
+- 📈 ViiPeRz Development: Something i Work On In My Spare Time With a Few Friends To Help People New To FiveM
+
+🌱 I'm Still Up-Coming With Coding and Always Willing To Learn New Things Or Improve My Ways Of Coding 
+
+🚀 In My Free Time I Enjoy Going Out To Places, If Not Spending Time With My Girlfriend Or Working On Something To Bring Myself Up As A Better Developer
 
 <h1 align="center"> 💻 Current Status: </h1>
 
@@ -20,8 +27,4 @@ src="https://img.shields.io/github/followers/Psycho-ViiPeRz?logo=github&style=fo
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
